@@ -1,0 +1,4 @@
+#pdf文件目录
+pdf_data_folder: "E:/test1/"
+#excel文件目录
+excel_data_folder: "E:/test2/"
